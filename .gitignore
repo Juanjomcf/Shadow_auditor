@@ -1,0 +1,13 @@
+# IA y Datos
+modelo_ia.pkl
+shadow_auditor_dataset.csv
+alertas_ley/
+__pycache__/
+
+# Entorno Virtual
+venv/
+.env
+
+# Logs y temporales
+*.log
+.DS_Store
